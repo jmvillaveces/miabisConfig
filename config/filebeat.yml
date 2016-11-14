@@ -1,0 +1,12 @@
+filebeat:
+ prospectors:
+  - paths:
+      - "/Users/jvillaveces/dev/miabis/data/data/simple_contacts.txt"
+    input_type: log
+    document_type: ki_data
+    encoding: plain
+    fields:
+      origin: bio1 # this is a biobank name
+output:
+  logstash:
+    hosts: ["localhost:5066"] # logstash port

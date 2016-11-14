@@ -1,0 +1,2 @@
+ID	Acronym	Name	URL	Juristic Person	Country	Contact Information	Description
+100	Elixir Biobank	E Biobank	https://www.elixir-europe.org/	Elixir Europe	UK	1	Elixir Test Biobank

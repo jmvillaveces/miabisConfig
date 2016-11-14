@@ -1,0 +1,201 @@
+ID	Acronym	Name	Description	Data categories	Collection type	Contact information
+1	SC AC 1	Sample collection 1	SC Desc 1	Biological samples	Case-control	67
+2	SC AC 2	Sample collection 2	SC Desc 2	Survey data	Cohort	70
+3	SC AC 3	Sample collection 3	SC Desc 3	Imaging data	Cross-sectional	41
+4	SC AC 4	Sample collection 4	SC Desc 4	Medical records	Longitudinal	90
+5	SC AC 5	Sample collection 5	SC Desc 5	National registries	Twin-study	83
+6	SC AC 6	Sample collection 6	SC Desc 6	Genealogical records	Quality control	73
+7	SC AC 7	Sample collection 7	SC Desc 7	Physiological/Biochemical measurements	Population-based	72
+8	SC AC 8	Sample collection 8	SC Desc 8	Other	Disease specific	54
+9	SC AC 9	Sample collection 9	SC Desc 9	Biological samples	Birth cohort	79
+10	SC AC 10	Sample collection 10	SC Desc 10	Survey data	Other	23
+11	SC AC 11	Sample collection 11	SC Desc 11	Imaging data	Case-control	83
+12	SC AC 12	Sample collection 12	SC Desc 12	Medical records	Cohort	98
+13	SC AC 13	Sample collection 13	SC Desc 13	National registries	Cross-sectional	85
+14	SC AC 14	Sample collection 14	SC Desc 14	Genealogical records	Longitudinal	82
+15	SC AC 15	Sample collection 15	SC Desc 15	Physiological/Biochemical measurements	Twin-study	44
+16	SC AC 16	Sample collection 16	SC Desc 16	Other	Quality control	85
+17	SC AC 17	Sample collection 17	SC Desc 17	Biological samples	Population-based	13
+18	SC AC 18	Sample collection 18	SC Desc 18	Survey data	Disease specific	38
+19	SC AC 19	Sample collection 19	SC Desc 19	Imaging data	Birth cohort	94
+20	SC AC 20	Sample collection 20	SC Desc 20	Medical records	Other	64
+21	SC AC 21	Sample collection 21	SC Desc 21	National registries	Case-control	14
+22	SC AC 22	Sample collection 22	SC Desc 22	Genealogical records	Cohort	8
+23	SC AC 23	Sample collection 23	SC Desc 23	Physiological/Biochemical measurements	Cross-sectional	95
+24	SC AC 24	Sample collection 24	SC Desc 24	Other	Longitudinal	42
+25	SC AC 25	Sample collection 25	SC Desc 25	Biological samples	Twin-study	68
+26	SC AC 26	Sample collection 26	SC Desc 26	Survey data	Quality control	96
+27	SC AC 27	Sample collection 27	SC Desc 27	Imaging data	Population-based	22
+28	SC AC 28	Sample collection 28	SC Desc 28	Medical records	Disease specific	72
+29	SC AC 29	Sample collection 29	SC Desc 29	National registries	Birth cohort	79
+30	SC AC 30	Sample collection 30	SC Desc 30	Genealogical records	Other	58
+31	SC AC 31	Sample collection 31	SC Desc 31	Physiological/Biochemical measurements	Case-control	15
+32	SC AC 32	Sample collection 32	SC Desc 32	Other	Cohort	37
+33	SC AC 33	Sample collection 33	SC Desc 33	Biological samples	Cross-sectional	90
+34	SC AC 34	Sample collection 34	SC Desc 34	Survey data	Longitudinal	59
+35	SC AC 35	Sample collection 35	SC Desc 35	Imaging data	Twin-study	74
+36	SC AC 36	Sample collection 36	SC Desc 36	Medical records	Quality control	20
+37	SC AC 37	Sample collection 37	SC Desc 37	National registries	Population-based	70
+38	SC AC 38	Sample collection 38	SC Desc 38	Genealogical records	Disease specific	14
+39	SC AC 39	Sample collection 39	SC Desc 39	Physiological/Biochemical measurements	Birth cohort	31
+40	SC AC 40	Sample collection 40	SC Desc 40	Other	Other	35
+41	SC AC 41	Sample collection 41	SC Desc 41	Biological samples	Case-control	66
+42	SC AC 42	Sample collection 42	SC Desc 42	Survey data	Cohort	28
+43	SC AC 43	Sample collection 43	SC Desc 43	Imaging data	Cross-sectional	40
+44	SC AC 44	Sample collection 44	SC Desc 44	Medical records	Longitudinal	83
+45	SC AC 45	Sample collection 45	SC Desc 45	National registries	Twin-study	73
+46	SC AC 46	Sample collection 46	SC Desc 46	Genealogical records	Quality control	66
+47	SC AC 47	Sample collection 47	SC Desc 47	Physiological/Biochemical measurements	Population-based	59
+48	SC AC 48	Sample collection 48	SC Desc 48	Other	Disease specific	94
+49	SC AC 49	Sample collection 49	SC Desc 49	Biological samples	Birth cohort	100
+50	SC AC 50	Sample collection 50	SC Desc 50	Survey data	Other	95
+51	SC AC 51	Sample collection 51	SC Desc 51	Imaging data	Case-control	42
+52	SC AC 52	Sample collection 52	SC Desc 52	Medical records	Cohort	56
+53	SC AC 53	Sample collection 53	SC Desc 53	National registries	Cross-sectional	8
+54	SC AC 54	Sample collection 54	SC Desc 54	Genealogical records	Longitudinal	22
+55	SC AC 55	Sample collection 55	SC Desc 55	Physiological/Biochemical measurements	Twin-study	9
+56	SC AC 56	Sample collection 56	SC Desc 56	Other	Quality control	18
+57	SC AC 57	Sample collection 57	SC Desc 57	Biological samples	Population-based	25
+58	SC AC 58	Sample collection 58	SC Desc 58	Survey data	Disease specific	81
+59	SC AC 59	Sample collection 59	SC Desc 59	Imaging data	Birth cohort	15
+60	SC AC 60	Sample collection 60	SC Desc 60	Medical records	Other	89
+61	SC AC 61	Sample collection 61	SC Desc 61	National registries	Case-control	24
+62	SC AC 62	Sample collection 62	SC Desc 62	Genealogical records	Cohort	68
+63	SC AC 63	Sample collection 63	SC Desc 63	Physiological/Biochemical measurements	Cross-sectional	32
+64	SC AC 64	Sample collection 64	SC Desc 64	Other	Longitudinal	70
+65	SC AC 65	Sample collection 65	SC Desc 65	Biological samples	Twin-study	91
+66	SC AC 66	Sample collection 66	SC Desc 66	Survey data	Quality control	64
+67	SC AC 67	Sample collection 67	SC Desc 67	Imaging data	Population-based	82
+68	SC AC 68	Sample collection 68	SC Desc 68	Medical records	Disease specific	33
+69	SC AC 69	Sample collection 69	SC Desc 69	National registries	Birth cohort	88
+70	SC AC 70	Sample collection 70	SC Desc 70	Genealogical records	Other	82
+71	SC AC 71	Sample collection 71	SC Desc 71	Physiological/Biochemical measurements	Case-control	95
+72	SC AC 72	Sample collection 72	SC Desc 72	Other	Cohort	53
+73	SC AC 73	Sample collection 73	SC Desc 73	Biological samples	Cross-sectional	36
+74	SC AC 74	Sample collection 74	SC Desc 74	Survey data	Longitudinal	36
+75	SC AC 75	Sample collection 75	SC Desc 75	Imaging data	Twin-study	50
+76	SC AC 76	Sample collection 76	SC Desc 76	Medical records	Quality control	42
+77	SC AC 77	Sample collection 77	SC Desc 77	National registries	Population-based	86
+78	SC AC 78	Sample collection 78	SC Desc 78	Genealogical records	Disease specific	50
+79	SC AC 79	Sample collection 79	SC Desc 79	Physiological/Biochemical measurements	Birth cohort	92
+80	SC AC 80	Sample collection 80	SC Desc 80	Other	Other	25
+81	SC AC 81	Sample collection 81	SC Desc 81	Biological samples	Case-control	42
+82	SC AC 82	Sample collection 82	SC Desc 82	Survey data	Cohort	76
+83	SC AC 83	Sample collection 83	SC Desc 83	Imaging data	Cross-sectional	74
+84	SC AC 84	Sample collection 84	SC Desc 84	Medical records	Longitudinal	88
+85	SC AC 85	Sample collection 85	SC Desc 85	National registries	Twin-study	45
+86	SC AC 86	Sample collection 86	SC Desc 86	Genealogical records	Quality control	24
+87	SC AC 87	Sample collection 87	SC Desc 87	Physiological/Biochemical measurements	Population-based	63
+88	SC AC 88	Sample collection 88	SC Desc 88	Other	Disease specific	59
+89	SC AC 89	Sample collection 89	SC Desc 89	Biological samples	Birth cohort	86
+90	SC AC 90	Sample collection 90	SC Desc 90	Survey data	Other	21
+91	SC AC 91	Sample collection 91	SC Desc 91	Imaging data	Case-control	10
+92	SC AC 92	Sample collection 92	SC Desc 92	Medical records	Cohort	68
+93	SC AC 93	Sample collection 93	SC Desc 93	National registries	Cross-sectional	98
+94	SC AC 94	Sample collection 94	SC Desc 94	Genealogical records	Longitudinal	56
+95	SC AC 95	Sample collection 95	SC Desc 95	Physiological/Biochemical measurements	Twin-study	39
+96	SC AC 96	Sample collection 96	SC Desc 96	Other	Quality control	44
+97	SC AC 97	Sample collection 97	SC Desc 97	Biological samples	Population-based	3
+98	SC AC 98	Sample collection 98	SC Desc 98	Survey data	Disease specific	27
+99	SC AC 99	Sample collection 99	SC Desc 99	Imaging data	Birth cohort	4
+100	SC AC 100	Sample collection 100	SC Desc 100	Medical records	Other	32
+101	SC AC 101	Sample collection 101	SC Desc 101	National registries	Case-control	5
+102	SC AC 102	Sample collection 102	SC Desc 102	Genealogical records	Cohort	70
+103	SC AC 103	Sample collection 103	SC Desc 103	Physiological/Biochemical measurements	Cross-sectional	65
+104	SC AC 104	Sample collection 104	SC Desc 104	Other	Longitudinal	7
+105	SC AC 105	Sample collection 105	SC Desc 105	Biological samples	Twin-study	35
+106	SC AC 106	Sample collection 106	SC Desc 106	Survey data	Quality control	11
+107	SC AC 107	Sample collection 107	SC Desc 107	Imaging data	Population-based	29
+108	SC AC 108	Sample collection 108	SC Desc 108	Medical records	Disease specific	82
+109	SC AC 109	Sample collection 109	SC Desc 109	National registries	Birth cohort	27
+110	SC AC 110	Sample collection 110	SC Desc 110	Genealogical records	Other	70
+111	SC AC 111	Sample collection 111	SC Desc 111	Physiological/Biochemical measurements	Case-control	99
+112	SC AC 112	Sample collection 112	SC Desc 112	Other	Cohort	11
+113	SC AC 113	Sample collection 113	SC Desc 113	Biological samples	Cross-sectional	17
+114	SC AC 114	Sample collection 114	SC Desc 114	Survey data	Longitudinal	97
+115	SC AC 115	Sample collection 115	SC Desc 115	Imaging data	Twin-study	7
+116	SC AC 116	Sample collection 116	SC Desc 116	Medical records	Quality control	40
+117	SC AC 117	Sample collection 117	SC Desc 117	National registries	Population-based	18
+118	SC AC 118	Sample collection 118	SC Desc 118	Genealogical records	Disease specific	12
+119	SC AC 119	Sample collection 119	SC Desc 119	Physiological/Biochemical measurements	Birth cohort	63
+120	SC AC 120	Sample collection 120	SC Desc 120	Other	Other	9
+121	SC AC 121	Sample collection 121	SC Desc 121	Biological samples	Case-control	7
+122	SC AC 122	Sample collection 122	SC Desc 122	Survey data	Cohort	95
+123	SC AC 123	Sample collection 123	SC Desc 123	Imaging data	Cross-sectional	92
+124	SC AC 124	Sample collection 124	SC Desc 124	Medical records	Longitudinal	26
+125	SC AC 125	Sample collection 125	SC Desc 125	National registries	Twin-study	33
+126	SC AC 126	Sample collection 126	SC Desc 126	Genealogical records	Quality control	2
+127	SC AC 127	Sample collection 127	SC Desc 127	Physiological/Biochemical measurements	Population-based	32
+128	SC AC 128	Sample collection 128	SC Desc 128	Other	Disease specific	17
+129	SC AC 129	Sample collection 129	SC Desc 129	Biological samples	Birth cohort	11
+130	SC AC 130	Sample collection 130	SC Desc 130	Survey data	Other	23
+131	SC AC 131	Sample collection 131	SC Desc 131	Imaging data	Case-control	2
+132	SC AC 132	Sample collection 132	SC Desc 132	Medical records	Cohort	76
+133	SC AC 133	Sample collection 133	SC Desc 133	National registries	Cross-sectional	98
+134	SC AC 134	Sample collection 134	SC Desc 134	Genealogical records	Longitudinal	56
+135	SC AC 135	Sample collection 135	SC Desc 135	Physiological/Biochemical measurements	Twin-study	66
+136	SC AC 136	Sample collection 136	SC Desc 136	Other	Quality control	65
+137	SC AC 137	Sample collection 137	SC Desc 137	Biological samples	Population-based	25
+138	SC AC 138	Sample collection 138	SC Desc 138	Survey data	Disease specific	21
+139	SC AC 139	Sample collection 139	SC Desc 139	Imaging data	Birth cohort	19
+140	SC AC 140	Sample collection 140	SC Desc 140	Medical records	Other	96
+141	SC AC 141	Sample collection 141	SC Desc 141	National registries	Case-control	19
+142	SC AC 142	Sample collection 142	SC Desc 142	Genealogical records	Cohort	84
+143	SC AC 143	Sample collection 143	SC Desc 143	Physiological/Biochemical measurements	Cross-sectional	72
+144	SC AC 144	Sample collection 144	SC Desc 144	Other	Longitudinal	79
+145	SC AC 145	Sample collection 145	SC Desc 145	Biological samples	Twin-study	82
+146	SC AC 146	Sample collection 146	SC Desc 146	Survey data	Quality control	27
+147	SC AC 147	Sample collection 147	SC Desc 147	Imaging data	Population-based	58
+148	SC AC 148	Sample collection 148	SC Desc 148	Medical records	Disease specific	27
+149	SC AC 149	Sample collection 149	SC Desc 149	National registries	Birth cohort	62
+150	SC AC 150	Sample collection 150	SC Desc 150	Genealogical records	Other	89
+151	SC AC 151	Sample collection 151	SC Desc 151	Physiological/Biochemical measurements	Case-control	41
+152	SC AC 152	Sample collection 152	SC Desc 152	Other	Cohort	43
+153	SC AC 153	Sample collection 153	SC Desc 153	Biological samples	Cross-sectional	35
+154	SC AC 154	Sample collection 154	SC Desc 154	Survey data	Longitudinal	19
+155	SC AC 155	Sample collection 155	SC Desc 155	Imaging data	Twin-study	80
+156	SC AC 156	Sample collection 156	SC Desc 156	Medical records	Quality control	53
+157	SC AC 157	Sample collection 157	SC Desc 157	National registries	Population-based	41
+158	SC AC 158	Sample collection 158	SC Desc 158	Genealogical records	Disease specific	3
+159	SC AC 159	Sample collection 159	SC Desc 159	Physiological/Biochemical measurements	Birth cohort	76
+160	SC AC 160	Sample collection 160	SC Desc 160	Other	Other	83
+161	SC AC 161	Sample collection 161	SC Desc 161	Biological samples	Case-control	27
+162	SC AC 162	Sample collection 162	SC Desc 162	Survey data	Cohort	95
+163	SC AC 163	Sample collection 163	SC Desc 163	Imaging data	Cross-sectional	5
+164	SC AC 164	Sample collection 164	SC Desc 164	Medical records	Longitudinal	46
+165	SC AC 165	Sample collection 165	SC Desc 165	National registries	Twin-study	22
+166	SC AC 166	Sample collection 166	SC Desc 166	Genealogical records	Quality control	82
+167	SC AC 167	Sample collection 167	SC Desc 167	Physiological/Biochemical measurements	Population-based	22
+168	SC AC 168	Sample collection 168	SC Desc 168	Other	Disease specific	97
+169	SC AC 169	Sample collection 169	SC Desc 169	Biological samples	Birth cohort	47
+170	SC AC 170	Sample collection 170	SC Desc 170	Survey data	Other	70
+171	SC AC 171	Sample collection 171	SC Desc 171	Imaging data	Case-control	73
+172	SC AC 172	Sample collection 172	SC Desc 172	Medical records	Cohort	49
+173	SC AC 173	Sample collection 173	SC Desc 173	National registries	Cross-sectional	100
+174	SC AC 174	Sample collection 174	SC Desc 174	Genealogical records	Longitudinal	76
+175	SC AC 175	Sample collection 175	SC Desc 175	Physiological/Biochemical measurements	Twin-study	41
+176	SC AC 176	Sample collection 176	SC Desc 176	Other	Quality control	32
+177	SC AC 177	Sample collection 177	SC Desc 177	Biological samples	Population-based	30
+178	SC AC 178	Sample collection 178	SC Desc 178	Survey data	Disease specific	97
+179	SC AC 179	Sample collection 179	SC Desc 179	Imaging data	Birth cohort	14
+180	SC AC 180	Sample collection 180	SC Desc 180	Medical records	Other	70
+181	SC AC 181	Sample collection 181	SC Desc 181	National registries	Case-control	89
+182	SC AC 182	Sample collection 182	SC Desc 182	Genealogical records	Cohort	8
+183	SC AC 183	Sample collection 183	SC Desc 183	Physiological/Biochemical measurements	Cross-sectional	88
+184	SC AC 184	Sample collection 184	SC Desc 184	Other	Longitudinal	8
+185	SC AC 185	Sample collection 185	SC Desc 185	Biological samples	Twin-study	90
+186	SC AC 186	Sample collection 186	SC Desc 186	Survey data	Quality control	18
+187	SC AC 187	Sample collection 187	SC Desc 187	Imaging data	Population-based	24
+188	SC AC 188	Sample collection 188	SC Desc 188	Medical records	Disease specific	42
+189	SC AC 189	Sample collection 189	SC Desc 189	National registries	Birth cohort	21
+190	SC AC 190	Sample collection 190	SC Desc 190	Genealogical records	Other	36
+191	SC AC 191	Sample collection 191	SC Desc 191	Physiological/Biochemical measurements	Case-control	60
+192	SC AC 192	Sample collection 192	SC Desc 192	Other	Cohort	90
+193	SC AC 193	Sample collection 193	SC Desc 193	Biological samples	Cross-sectional	60
+194	SC AC 194	Sample collection 194	SC Desc 194	Survey data	Longitudinal	85
+195	SC AC 195	Sample collection 195	SC Desc 195	Imaging data	Twin-study	80
+196	SC AC 196	Sample collection 196	SC Desc 196	Medical records	Quality control	67
+197	SC AC 197	Sample collection 197	SC Desc 197	National registries	Population-based	43
+198	SC AC 198	Sample collection 198	SC Desc 198	Genealogical records	Disease specific	89
+199	SC AC 199	Sample collection 199	SC Desc 199	Physiological/Biochemical measurements	Birth cohort	36
+200	SC AC 200	Sample collection 200	SC Desc 200	Other	Other	26
