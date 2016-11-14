@@ -1,37 +1,37 @@
 # Export java home
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/
 
-# Remove All folders
-rm -r -f elasticsearch*
-rm -r -f logstash*
-rm -r -f filebeat*
-rm -r -f derby*
-rm -r -f db-*
+# Remove tools folder
+rm -r -f tools*
+#rm -r -f logstash*
+#rm -r -f filebeat*
+#rm -r -f derby*
+#rm -r -f db-*ls
 
 # Download Tools
 
 # Download ES
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.0.0.zip
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.0.0.zip -P tools
 # Download logstash
-wget https://artifacts.elastic.co/downloads/logstash/logstash-5.0.0.zip
+wget https://artifacts.elastic.co/downloads/logstash/logstash-5.0.0.zip -P tools
 # Download filebeat
-wget https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-5.0.0-darwin-x86_64.tar.gz
+wget https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-5.0.0-darwin-x86_64.tar.gz -P tools
 
 # Download derby
-wget http://ftp.fau.de/apache//db/derby/db-derby-10.13.1.1/db-derby-10.13.1.1-bin.zip
+wget http://ftp.fau.de/apache//db/derby/db-derby-10.13.1.1/db-derby-10.13.1.1-bin.zip -P tools
 
 # Unzip
-unzip elasticsearch-5.0.0.zip -d elasticsearch
-unzip logstash-5.0.0.zip -d logstash
-unzip db-derby-10.13.1.1-bin.zip -d derby
-gunzip -c filebeat-5.0.0-darwin-x86_64.tar.gz | tar xopf -
+unzip -q tools/elasticsearch-5.0.0.zip -d tools
+unzip -q tools/logstash-5.0.0.zip -d tools
+unzip -q tools/db-derby-10.13.1.1-bin.zip -d tools
+tar -jxf tools/filebeat-5.0.0-darwin-x86_64.tar.gz --directory tools
 
 # Install logstash plugins
-./logstash/logstash-5.0.0/bin/logstash-plugin install logstash-input-jdbc
-./logstash/logstash-5.0.0/bin/logstash-plugin install logstash-output-jdbc
+./tools/logstash-5.0.0/bin/logstash-plugin install logstash-input-jdbc
+./tools/logstash-5.0.0/bin/logstash-plugin install logstash-output-jdbc
 
 # Create database
-./derby/db-derby-10.13.1.1-bin/bin/ij ./db/db-schema.sql
+./tools/db-derby-10.13.1.1-bin/bin/ij ./config/db/db-schema.sql
 
 # Useful commands
 #./logstash/logstash-2.4.0/bin/logstash -f ./data/config/logstash.db.conf
