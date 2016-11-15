@@ -1,7 +1,7 @@
 filebeat:
  prospectors:
   - paths:
-      - "/Users/jvillaveces/dev/miabis/data/data/simple_contacts.txt"
+      - "/Users/jvillaveces/dev/miabisConfig/data/generated/contact_information.csv"
     input_type: log
     document_type: ki_data
     encoding: plain
