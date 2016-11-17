@@ -21,17 +21,18 @@ if(process.argv[3]){
 }
 
 if(process.argv[2] && parseInt(process.argv[2])){
-
-  var contacts = _.range(parseInt(process.argv[2])).map(function(o, i){
-    var contact = generateContact();
-    contact.id = i;
-    return _.values(contact).join(',');
-  });
-
-  fs.writeFile(path, contacts.join('\n'), function(err) {
-      if(err) {
-          return console.log(err);
-      }
-      console.log("The file was saved!");
-  });
+  size = parseInt(process.argv[2]);
 }
+
+var contacts = _.range(size).map(function(o, i){
+  var contact = generateContact();
+  contact.id = i;
+  return _.values(contact).join(',');
+});
+
+fs.writeFile(path, contacts.join('\n'), function(err) {
+    if(err) {
+        return console.log(err);
+    }
+    console.log("The file was saved!");
+});
