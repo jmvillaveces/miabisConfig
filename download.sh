@@ -62,5 +62,5 @@ ConfigLogstash
 CreateDB
 
 # Useful commands
-#./logstash/logstash-2.4.0/bin/logstash -f ./data/config/logstash.db.conf
+#./tools/logstash-5.0.0/bin/logstash -f ./config/logstash.db.jmv.conf
 #./filebeat-1.3.1-darwin/filebeat -c ./data/config/
