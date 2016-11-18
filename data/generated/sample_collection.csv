@@ -1,100 +1,150 @@
-SC 1,Acronym 1,Name 1,Description 1,Population-based,93
-SC 2,Acronym 2,Name 2,Description 2,Case-control,95
-SC 3,Acronym 3,Name 3,Description 3, Other,65
-SC 4,Acronym 4,Name 4,Description 4,Longitudinal,99
-SC 5,Acronym 5,Name 5,Description 5, Other,65
-SC 6,Acronym 6,Name 6,Description 6,Quality control,33
-SC 7,Acronym 7,Name 7,Description 7,Quality control,98
-SC 8,Acronym 8,Name 8,Description 8, Birth cohort,14
-SC 9,Acronym 9,Name 9,Description 9,Quality control,84
-SC 10,Acronym 10,Name 10,Description 10,Quality control,75
-SC 11,Acronym 11,Name 11,Description 11,Disease specific,66
-SC 12,Acronym 12,Name 12,Description 12,Population-based,74
-SC 13,Acronym 13,Name 13,Description 13, Birth cohort,71
-SC 14,Acronym 14,Name 14,Description 14,Twin-study,84
-SC 15,Acronym 15,Name 15,Description 15,Quality control,26
-SC 16,Acronym 16,Name 16,Description 16,Population-based,87
-SC 17,Acronym 17,Name 17,Description 17,Quality control,14
-SC 18,Acronym 18,Name 18,Description 18,Longitudinal,75
-SC 19,Acronym 19,Name 19,Description 19,Disease specific,67
-SC 20,Acronym 20,Name 20,Description 20,Cross-sectional,3
-SC 21,Acronym 21,Name 21,Description 21,Population-based,48
-SC 22,Acronym 22,Name 22,Description 22,Cohort,22
-SC 23,Acronym 23,Name 23,Description 23,Quality control,85
-SC 24,Acronym 24,Name 24,Description 24,Quality control,63
-SC 25,Acronym 25,Name 25,Description 25,Quality control,5
-SC 26,Acronym 26,Name 26,Description 26,Cohort,72
-SC 27,Acronym 27,Name 27,Description 27, Other,94
-SC 28,Acronym 28,Name 28,Description 28,Twin-study,45
-SC 29,Acronym 29,Name 29,Description 29,Disease specific,49
-SC 30,Acronym 30,Name 30,Description 30,Case-control,75
-SC 31,Acronym 31,Name 31,Description 31,Quality control,15
-SC 32,Acronym 32,Name 32,Description 32,Disease specific,41
-SC 33,Acronym 33,Name 33,Description 33,Case-control,79
-SC 34,Acronym 34,Name 34,Description 34, Other,15
-SC 35,Acronym 35,Name 35,Description 35, Other,27
-SC 36,Acronym 36,Name 36,Description 36,Population-based,26
-SC 37,Acronym 37,Name 37,Description 37,Twin-study,85
-SC 38,Acronym 38,Name 38,Description 38,Disease specific,6
-SC 39,Acronym 39,Name 39,Description 39, Other,43
-SC 40,Acronym 40,Name 40,Description 40,Case-control,25
-SC 41,Acronym 41,Name 41,Description 41,Longitudinal,24
-SC 42,Acronym 42,Name 42,Description 42, Other,61
-SC 43,Acronym 43,Name 43,Description 43,Case-control,34
-SC 44,Acronym 44,Name 44,Description 44,Disease specific,57
-SC 45,Acronym 45,Name 45,Description 45,Case-control,97
-SC 46,Acronym 46,Name 46,Description 46, Other,77
-SC 47,Acronym 47,Name 47,Description 47, Other,12
-SC 48,Acronym 48,Name 48,Description 48,Disease specific,22
-SC 49,Acronym 49,Name 49,Description 49,Cohort,9
-SC 50,Acronym 50,Name 50,Description 50,Quality control,69
-SC 51,Acronym 51,Name 51,Description 51,Twin-study,85
-SC 52,Acronym 52,Name 52,Description 52,Case-control,0
-SC 53,Acronym 53,Name 53,Description 53, Other,28
-SC 54,Acronym 54,Name 54,Description 54,Longitudinal,100
-SC 55,Acronym 55,Name 55,Description 55,Cross-sectional,22
-SC 56,Acronym 56,Name 56,Description 56,Disease specific,31
-SC 57,Acronym 57,Name 57,Description 57,Longitudinal,16
-SC 58,Acronym 58,Name 58,Description 58,Cross-sectional,47
-SC 59,Acronym 59,Name 59,Description 59,Longitudinal,81
-SC 60,Acronym 60,Name 60,Description 60,Cohort,93
-SC 61,Acronym 61,Name 61,Description 61,Cross-sectional,13
-SC 62,Acronym 62,Name 62,Description 62,Quality control,30
-SC 63,Acronym 63,Name 63,Description 63,Case-control,37
-SC 64,Acronym 64,Name 64,Description 64, Birth cohort,10
-SC 65,Acronym 65,Name 65,Description 65,Twin-study,27
-SC 66,Acronym 66,Name 66,Description 66,Cohort,87
-SC 67,Acronym 67,Name 67,Description 67,,7
-SC 68,Acronym 68,Name 68,Description 68,Cross-sectional,36
-SC 69,Acronym 69,Name 69,Description 69,Disease specific,11
-SC 70,Acronym 70,Name 70,Description 70,Cohort,33
-SC 71,Acronym 71,Name 71,Description 71,Longitudinal,13
-SC 72,Acronym 72,Name 72,Description 72, Other,73
-SC 73,Acronym 73,Name 73,Description 73,Population-based,96
-SC 74,Acronym 74,Name 74,Description 74,Cohort,94
-SC 75,Acronym 75,Name 75,Description 75,Cohort,82
-SC 76,Acronym 76,Name 76,Description 76,Disease specific,83
-SC 77,Acronym 77,Name 77,Description 77,Disease specific,66
-SC 78,Acronym 78,Name 78,Description 78,Cross-sectional,32
-SC 79,Acronym 79,Name 79,Description 79,Case-control,33
-SC 80,Acronym 80,Name 80,Description 80,Population-based,50
-SC 81,Acronym 81,Name 81,Description 81,Case-control,68
-SC 82,Acronym 82,Name 82,Description 82,Disease specific,53
-SC 83,Acronym 83,Name 83,Description 83,Population-based,28
+SC 1,Acronym 1,Name 1,Description 1,Population-based,79
+SC 2,Acronym 2,Name 2,Description 2,Twin-study,19
+SC 3,Acronym 3,Name 3,Description 3, Birth cohort,45
+SC 4,Acronym 4,Name 4,Description 4,Twin-study,56
+SC 5,Acronym 5,Name 5,Description 5,Cohort,28
+SC 6,Acronym 6,Name 6,Description 6, Birth cohort,13
+SC 7,Acronym 7,Name 7,Description 7,Cohort,63
+SC 8,Acronym 8,Name 8,Description 8,Longitudinal,80
+SC 9,Acronym 9,Name 9,Description 9,Longitudinal,65
+SC 10,Acronym 10,Name 10,Description 10,Disease specific,57
+SC 11,Acronym 11,Name 11,Description 11,Cohort,80
+SC 12,Acronym 12,Name 12,Description 12,Quality control,19
+SC 13,Acronym 13,Name 13,Description 13, Other,35
+SC 14,Acronym 14,Name 14,Description 14,Quality control,42
+SC 15,Acronym 15,Name 15,Description 15,Case-control,43
+SC 16,Acronym 16,Name 16,Description 16,Population-based,56
+SC 17,Acronym 17,Name 17,Description 17,Disease specific,62
+SC 18,Acronym 18,Name 18,Description 18,Longitudinal,91
+SC 19,Acronym 19,Name 19,Description 19, Birth cohort,36
+SC 20,Acronym 20,Name 20,Description 20, Other,50
+SC 21,Acronym 21,Name 21,Description 21, Other,23
+SC 22,Acronym 22,Name 22,Description 22,,46
+SC 23,Acronym 23,Name 23,Description 23,Disease specific,5
+SC 24,Acronym 24,Name 24,Description 24,Population-based,13
+SC 25,Acronym 25,Name 25,Description 25, Birth cohort,14
+SC 26,Acronym 26,Name 26,Description 26,Twin-study,23
+SC 27,Acronym 27,Name 27,Description 27,Disease specific,51
+SC 28,Acronym 28,Name 28,Description 28,Longitudinal,24
+SC 29,Acronym 29,Name 29,Description 29,Cohort,54
+SC 30,Acronym 30,Name 30,Description 30,Cohort,42
+SC 31,Acronym 31,Name 31,Description 31,Longitudinal,59
+SC 32,Acronym 32,Name 32,Description 32,,23
+SC 33,Acronym 33,Name 33,Description 33,Disease specific,34
+SC 34,Acronym 34,Name 34,Description 34,Quality control,61
+SC 35,Acronym 35,Name 35,Description 35,Population-based,98
+SC 36,Acronym 36,Name 36,Description 36,Longitudinal,92
+SC 37,Acronym 37,Name 37,Description 37,Quality control,81
+SC 38,Acronym 38,Name 38,Description 38,Quality control,49
+SC 39,Acronym 39,Name 39,Description 39,,53
+SC 40,Acronym 40,Name 40,Description 40,Longitudinal,5
+SC 41,Acronym 41,Name 41,Description 41,Longitudinal,51
+SC 42,Acronym 42,Name 42,Description 42,Longitudinal,49
+SC 43,Acronym 43,Name 43,Description 43,Cohort,100
+SC 44,Acronym 44,Name 44,Description 44,Cross-sectional,62
+SC 45,Acronym 45,Name 45,Description 45,Population-based,79
+SC 46,Acronym 46,Name 46,Description 46,Quality control,40
+SC 47,Acronym 47,Name 47,Description 47,Disease specific,40
+SC 48,Acronym 48,Name 48,Description 48,Longitudinal,63
+SC 49,Acronym 49,Name 49,Description 49,Cohort,34
+SC 50,Acronym 50,Name 50,Description 50,Longitudinal,80
+SC 51,Acronym 51,Name 51,Description 51,Longitudinal,17
+SC 52,Acronym 52,Name 52,Description 52,Population-based,90
+SC 53,Acronym 53,Name 53,Description 53,Twin-study,25
+SC 54,Acronym 54,Name 54,Description 54,Case-control,23
+SC 55,Acronym 55,Name 55,Description 55,Cohort,11
+SC 56,Acronym 56,Name 56,Description 56, Other,4
+SC 57,Acronym 57,Name 57,Description 57,Longitudinal,25
+SC 58,Acronym 58,Name 58,Description 58,Quality control,29
+SC 59,Acronym 59,Name 59,Description 59,Disease specific,82
+SC 60,Acronym 60,Name 60,Description 60,Cross-sectional,95
+SC 61,Acronym 61,Name 61,Description 61, Other,18
+SC 62,Acronym 62,Name 62,Description 62,Quality control,21
+SC 63,Acronym 63,Name 63,Description 63, Other,89
+SC 64,Acronym 64,Name 64,Description 64,Case-control,94
+SC 65,Acronym 65,Name 65,Description 65,Cross-sectional,73
+SC 66,Acronym 66,Name 66,Description 66,Quality control,50
+SC 67,Acronym 67,Name 67,Description 67,Population-based,31
+SC 68,Acronym 68,Name 68,Description 68,Cohort,10
+SC 69,Acronym 69,Name 69,Description 69,Twin-study,63
+SC 70,Acronym 70,Name 70,Description 70, Other,57
+SC 71,Acronym 71,Name 71,Description 71, Other,95
+SC 72,Acronym 72,Name 72,Description 72,Cross-sectional,55
+SC 73,Acronym 73,Name 73,Description 73,,14
+SC 74,Acronym 74,Name 74,Description 74,Disease specific,17
+SC 75,Acronym 75,Name 75,Description 75, Birth cohort,53
+SC 76,Acronym 76,Name 76,Description 76,Twin-study,90
+SC 77,Acronym 77,Name 77,Description 77,Cross-sectional,60
+SC 78,Acronym 78,Name 78,Description 78, Birth cohort,14
+SC 79,Acronym 79,Name 79,Description 79,Quality control,64
+SC 80,Acronym 80,Name 80,Description 80,Disease specific,70
+SC 81,Acronym 81,Name 81,Description 81,Case-control,84
+SC 82,Acronym 82,Name 82,Description 82,Cross-sectional,59
+SC 83,Acronym 83,Name 83,Description 83,Cross-sectional,60
 SC 84,Acronym 84,Name 84,Description 84,Case-control,61
-SC 85,Acronym 85,Name 85,Description 85,Quality control,17
-SC 86,Acronym 86,Name 86,Description 86,Disease specific,100
-SC 87,Acronym 87,Name 87,Description 87,Disease specific,94
-SC 88,Acronym 88,Name 88,Description 88,Cross-sectional,8
-SC 89,Acronym 89,Name 89,Description 89,Cohort,80
-SC 90,Acronym 90,Name 90,Description 90,Cross-sectional,68
-SC 91,Acronym 91,Name 91,Description 91,Twin-study,22
-SC 92,Acronym 92,Name 92,Description 92,Cohort,74
-SC 93,Acronym 93,Name 93,Description 93, Birth cohort,59
-SC 94,Acronym 94,Name 94,Description 94,Case-control,91
-SC 95,Acronym 95,Name 95,Description 95,Population-based,15
-SC 96,Acronym 96,Name 96,Description 96,Cross-sectional,51
-SC 97,Acronym 97,Name 97,Description 97,Twin-study,76
-SC 98,Acronym 98,Name 98,Description 98,Disease specific,77
-SC 99,Acronym 99,Name 99,Description 99,Twin-study,59
-SC 100,Acronym 100,Name 100,Description 100,,61
+SC 85,Acronym 85,Name 85,Description 85, Other,74
+SC 86,Acronym 86,Name 86,Description 86, Birth cohort,69
+SC 87,Acronym 87,Name 87,Description 87,Cross-sectional,3
+SC 88,Acronym 88,Name 88,Description 88,Case-control,64
+SC 89,Acronym 89,Name 89,Description 89, Other,73
+SC 90,Acronym 90,Name 90,Description 90,Cross-sectional,32
+SC 91,Acronym 91,Name 91,Description 91,Longitudinal,63
+SC 92,Acronym 92,Name 92,Description 92,Case-control,91
+SC 93,Acronym 93,Name 93,Description 93,Disease specific,30
+SC 94,Acronym 94,Name 94,Description 94,Cross-sectional,59
+SC 95,Acronym 95,Name 95,Description 95,Cohort,59
+SC 96,Acronym 96,Name 96,Description 96,Population-based,29
+SC 97,Acronym 97,Name 97,Description 97,Quality control,61
+SC 98,Acronym 98,Name 98,Description 98,Case-control,51
+SC 99,Acronym 99,Name 99,Description 99,Twin-study,32
+SC 100,Acronym 100,Name 100,Description 100, Birth cohort,74
+SC 101,Acronym 101,Name 101,Description 101,Quality control,26
+SC 102,Acronym 102,Name 102,Description 102,Case-control,17
+SC 103,Acronym 103,Name 103,Description 103,Population-based,10
+SC 104,Acronym 104,Name 104,Description 104,Quality control,83
+SC 105,Acronym 105,Name 105,Description 105,,28
+SC 106,Acronym 106,Name 106,Description 106,Quality control,73
+SC 107,Acronym 107,Name 107,Description 107,Longitudinal,28
+SC 108,Acronym 108,Name 108,Description 108,Population-based,91
+SC 109,Acronym 109,Name 109,Description 109,Twin-study,81
+SC 110,Acronym 110,Name 110,Description 110,Cross-sectional,82
+SC 111,Acronym 111,Name 111,Description 111,Longitudinal,70
+SC 112,Acronym 112,Name 112,Description 112,Case-control,25
+SC 113,Acronym 113,Name 113,Description 113,Quality control,29
+SC 114,Acronym 114,Name 114,Description 114,Case-control,23
+SC 115,Acronym 115,Name 115,Description 115,Cohort,10
+SC 116,Acronym 116,Name 116,Description 116,Case-control,3
+SC 117,Acronym 117,Name 117,Description 117,Population-based,53
+SC 118,Acronym 118,Name 118,Description 118,Population-based,1
+SC 119,Acronym 119,Name 119,Description 119,Disease specific,73
+SC 120,Acronym 120,Name 120,Description 120,Twin-study,26
+SC 121,Acronym 121,Name 121,Description 121,Quality control,43
+SC 122,Acronym 122,Name 122,Description 122,Twin-study,68
+SC 123,Acronym 123,Name 123,Description 123,Twin-study,26
+SC 124,Acronym 124,Name 124,Description 124,Cross-sectional,73
+SC 125,Acronym 125,Name 125,Description 125, Other,72
+SC 126,Acronym 126,Name 126,Description 126,Disease specific,28
+SC 127,Acronym 127,Name 127,Description 127,Population-based,5
+SC 128,Acronym 128,Name 128,Description 128,Twin-study,92
+SC 129,Acronym 129,Name 129,Description 129,,91
+SC 130,Acronym 130,Name 130,Description 130,Quality control,31
+SC 131,Acronym 131,Name 131,Description 131,Cross-sectional,74
+SC 132,Acronym 132,Name 132,Description 132,Cohort,12
+SC 133,Acronym 133,Name 133,Description 133,Cohort,21
+SC 134,Acronym 134,Name 134,Description 134,Twin-study,67
+SC 135,Acronym 135,Name 135,Description 135,Population-based,63
+SC 136,Acronym 136,Name 136,Description 136,Disease specific,93
+SC 137,Acronym 137,Name 137,Description 137,Cross-sectional,35
+SC 138,Acronym 138,Name 138,Description 138, Other,3
+SC 139,Acronym 139,Name 139,Description 139, Other,8
+SC 140,Acronym 140,Name 140,Description 140,Twin-study,80
+SC 141,Acronym 141,Name 141,Description 141,Quality control,80
+SC 142,Acronym 142,Name 142,Description 142,,37
+SC 143,Acronym 143,Name 143,Description 143,Case-control,0
+SC 144,Acronym 144,Name 144,Description 144,Case-control,34
+SC 145,Acronym 145,Name 145,Description 145,Case-control,69
+SC 146,Acronym 146,Name 146,Description 146,,98
+SC 147,Acronym 147,Name 147,Description 147,Cohort,67
+SC 148,Acronym 148,Name 148,Description 148,Quality control,20
+SC 149,Acronym 149,Name 149,Description 149,Longitudinal,53
+SC 150,Acronym 150,Name 150,Description 150,Cross-sectional,87
