@@ -2,6 +2,8 @@ filebeat:
  prospectors:
   - paths:
       - "/Users/jvillaveces/dev/miabisConfig/data/generated/contact_information.csv"
+      - "/Users/jvillaveces/dev/miabisConfig/data/generated/sample_collection.csv"
+      - "/Users/jvillaveces/dev/miabisConfig/data/generated/sample.csv"
     input_type: log
     document_type: ki_data
     encoding: plain
