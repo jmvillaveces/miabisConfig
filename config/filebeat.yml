@@ -5,7 +5,7 @@ filebeat:
       - "/Users/jvillaveces/dev/miabisConfig/data/generated/sample_collection.csv"
       - "/Users/jvillaveces/dev/miabisConfig/data/generated/sample.csv"
     input_type: log
-    document_type: ki_data
+    document_type: biobank_sample # ES type if not defined then defaults. Groups logically similar data
     encoding: plain
     fields:
       origin: bio1 # this is a biobank name
